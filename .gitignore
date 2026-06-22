@@ -30,7 +30,6 @@ style_data/
 data/
 
 # Model checkpoints
-*.pth
 *.pt
 *.ckpt
 

@@ -21,7 +21,6 @@ env/
 static/uploads/
 
 # Training outputs
-experiment/
 experiments/
 
 # Datasets
